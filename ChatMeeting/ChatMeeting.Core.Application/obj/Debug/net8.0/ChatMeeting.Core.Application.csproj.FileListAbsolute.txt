@@ -1,0 +1,6 @@
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.sourcelink.json

@@ -15,6 +15,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ChatMeeting.Core.Domain\ChatMeeting.Core.Domain.csproj" />
     <ProjectReference Include="..\ChatMeeting.Infrastructure\ChatMeeting.Infrastructure.csproj" />
+    
   </ItemGroup>
 
 </Project>

@@ -6,8 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+
   <ItemGroup>
     <ProjectReference Include="..\ChatMeeting.Core.Domain\ChatMeeting.Core.Domain.csproj" />
+    <ProjectReference Include="..\ChatMeeting.Infrastructure\ChatMeeting.Infrastructure.csproj" />
+ 
+    <ProjectReference Include="..\ChatMeeting\ChatMeeting.API.csproj" />
   </ItemGroup>
 
 </Project>
