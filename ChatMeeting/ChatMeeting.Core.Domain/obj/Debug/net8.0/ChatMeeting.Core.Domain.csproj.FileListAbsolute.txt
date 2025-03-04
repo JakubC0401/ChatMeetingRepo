@@ -1,0 +1,13 @@
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Domain\bin\Debug\net8.0\ChatMeeting.Core.Domain.deps.json
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Domain\bin\Debug\net8.0\ChatMeeting.Core.Domain.dll
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Domain\bin\Debug\net8.0\ChatMeeting.Core.Domain.pdb
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Domain\obj\Debug\net8.0\ChatMeeting.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Domain\obj\Debug\net8.0\ChatMeeting.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Domain\obj\Debug\net8.0\ChatMeeting.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Domain\obj\Debug\net8.0\ChatMeeting.Core.Domain.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Domain\obj\Debug\net8.0\ChatMeeting.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Domain\obj\Debug\net8.0\ChatMeeting.Core.Domain.sourcelink.json
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Domain\obj\Debug\net8.0\ChatMeeting.Core.Domain.dll
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Domain\obj\Debug\net8.0\refint\ChatMeeting.Core.Domain.dll
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Domain\obj\Debug\net8.0\ChatMeeting.Core.Domain.pdb
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Domain\obj\Debug\net8.0\ref\ChatMeeting.Core.Domain.dll

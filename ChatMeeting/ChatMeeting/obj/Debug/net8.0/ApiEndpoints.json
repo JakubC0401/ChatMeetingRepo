@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ChatMeeting.API.Controllers.AuthController",
+    "Method": "GetUser",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

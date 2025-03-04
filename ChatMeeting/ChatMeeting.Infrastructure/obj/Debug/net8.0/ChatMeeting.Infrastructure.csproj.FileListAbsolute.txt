@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\bin\Debug\net8.0\ChatMeeting.Infrastructure.deps.json
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\bin\Debug\net8.0\ChatMeeting.Infrastructure.dll
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\bin\Debug\net8.0\ChatMeeting.Infrastructure.pdb
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\bin\Debug\net8.0\ChatMeeting.Core.Domain.dll
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\bin\Debug\net8.0\ChatMeeting.Core.Domain.pdb
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\obj\Debug\net8.0\ChatMeeting.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\obj\Debug\net8.0\ChatMeeting.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\obj\Debug\net8.0\ChatMeeting.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\obj\Debug\net8.0\ChatMeeting.Infrastructure.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\obj\Debug\net8.0\ChatMeeting.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\obj\Debug\net8.0\ChatMeeting.Infrastructure.sourcelink.json
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\obj\Debug\net8.0\ChatMeet.F8B2A103.Up2Date
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\obj\Debug\net8.0\ChatMeeting.Infrastructure.dll
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\obj\Debug\net8.0\refint\ChatMeeting.Infrastructure.dll
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\obj\Debug\net8.0\ChatMeeting.Infrastructure.pdb
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Infrastructure\obj\Debug\net8.0\ref\ChatMeeting.Infrastructure.dll
