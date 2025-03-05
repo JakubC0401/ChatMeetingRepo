@@ -27,21 +27,21 @@ namespace ChatMeeting.Core.Application.Services
         {
             try
             {
-                var existingUser = _userRepository.GetUserByLogin(registerUser.UserName);
+                var existingUser = await _userRepository.GetUserByLogin(registerUser.Username);
 
                 if(existingUser != null)
                 {
-                    _logger.LogWarning($"User with login {registerUser.UserName} already exists.");
+                    _logger.LogWarning($"User with login {registerUser.Username} already exists.");
                     throw new InvalidOperationException("User with this login already exist");
                 }
 
-                var user = new User(registerUser.UserName, HashPassword(registerUser.Password));
+                var user = new User(registerUser.Username, HashPassword(registerUser.Password));
 
                 await _userRepository.AddUser(user);
             }
             catch (Exception ex) 
             {
-                _logger.LogError(ex, $"Error occured while registering user: {registerUser.UserName}");
+                _logger.LogError(ex, $"Error occured while registering user: {registerUser.Username}");
                 throw new InvalidProgramException();
             }
         }

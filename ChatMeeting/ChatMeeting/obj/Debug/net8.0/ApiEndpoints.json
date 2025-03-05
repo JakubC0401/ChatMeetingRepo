@@ -1,12 +1,18 @@
 [
   {
     "ContainingType": "ChatMeeting.API.Controllers.AuthController",
-    "Method": "GetUser",
-    "RelativePath": "api/Auth",
-    "HttpMethod": "GET",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "registerUser",
+        "Type": "ChatMeeting.Core.Domain.Dtos.RegisterUserDto",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   }
 ]

@@ -1,6 +1,16 @@
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\bin\Debug\net8.0\ChatMeeting.Core.Application.deps.json
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\bin\Debug\net8.0\ChatMeeting.Core.Application.dll
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\bin\Debug\net8.0\ChatMeeting.Core.Application.pdb
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\bin\Debug\net8.0\ChatMeeting.Core.Domain.dll
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\bin\Debug\net8.0\ChatMeeting.Core.Domain.pdb
 C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.csproj.AssemblyReference.cache
 C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.AssemblyInfoInputs.cache
 C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.AssemblyInfo.cs
 C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.csproj.CoreCompileInputs.cache
 C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.sourcelink.json
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeet.89032BE2.Up2Date
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.dll
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\refint\ChatMeeting.Core.Application.dll
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ChatMeeting.Core.Application.pdb
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting.Core.Application\obj\Debug\net8.0\ref\ChatMeeting.Core.Application.dll

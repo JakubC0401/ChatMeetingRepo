@@ -15,6 +15,17 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddConfiguration(configuration);
 builder.Services.AddServices();
 
+var origin = configuration.GetValue<string>("Origin") ?? throw new NullReferenceException("Empty orgin");
+
+builder.Services.AddCors(options => options.AddPolicy("CorsPolicy", builder =>
+{
+    builder.WithOrigins(origin)
+    .AllowAnyHeader()
+    .AllowAnyMethod()
+    .SetIsOriginAllowed((host) => true)
+    .AllowCredentials();
+}));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -23,6 +34,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("CorsPolicy");
 
 app.UseHttpsRedirection();
 
