@@ -58,7 +58,7 @@ namespace ChatMeeting.Core.Application.Services
         {
             return new Claim[]
             {
-                new Claim(JwtRegisteredClaimNames.Sub, user.UserName),
+                new Claim(JwtRegisteredClaimNames.Sub, user.Username),
                 new Claim(JwtRegisteredClaimNames.Jti, user.Id.ToString()),
             };
         }

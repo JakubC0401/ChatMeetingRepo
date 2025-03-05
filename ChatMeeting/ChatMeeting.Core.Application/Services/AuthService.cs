@@ -29,11 +29,11 @@ namespace ChatMeeting.Core.Application.Services
         {
             try
             {
-                var user = await _userRepository.GetUserByLogin(loginModel.UserName);
+                var user = await _userRepository.GetUserByLogin(loginModel.Username);
 
                 if (user == null)
                 {
-                    _logger.LogWarning($"User not found: {loginModel.UserName}");
+                    _logger.LogWarning($"User not found: {loginModel.Username}");
                     throw new InvalidOperationException("User with this login does not exist");
                 }
 
@@ -51,7 +51,7 @@ namespace ChatMeeting.Core.Application.Services
             }
             catch (Exception ex) 
             {
-                _logger.LogError($"Authentification failed for user {loginModel.UserName}. Unexpected error");
+                _logger.LogError($"Authentification failed for user {loginModel.Username}. Unexpected error");
                 throw;
             }
            
@@ -59,9 +59,9 @@ namespace ChatMeeting.Core.Application.Services
 
         private bool VerifyPassowrd(string enteredPassword, string storedPassword)
         {
-            var parts = storedPassword.Split(':');
+            var parts = storedPassword.Split(":");
 
-            if (parts.Length == 2) 
+            if (parts.Length != 2) 
             {
                 throw new FormatException("Unexpected hash format");
             }

@@ -32,7 +32,7 @@ namespace ChatMeeting.Infrastructure.Repositories
             }
             catch (Exception ex) 
             {
-                _logger.LogError(ex, $"Error occured when adding user: {user.UserName}");
+                _logger.LogError(ex, $"Error occured when adding user: {user.Username}");
                 throw;
             }
         }
@@ -61,7 +61,7 @@ namespace ChatMeeting.Infrastructure.Repositories
         {
             try
             {
-                var user = await _context.Users.FirstOrDefaultAsync(u => u.UserName == login);
+                var user = await _context.Users.FirstOrDefaultAsync(u => u.Username == login);
 
                 if (user == null)
                 {

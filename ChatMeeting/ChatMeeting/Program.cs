@@ -15,6 +15,9 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddConfiguration(configuration);
 builder.Services.AddServices();
 
+builder.Services.AddOptions(configuration);
+
+
 var origin = configuration.GetValue<string>("Origin") ?? throw new NullReferenceException("Empty orgin");
 
 builder.Services.AddCors(options => options.AddPolicy("CorsPolicy", builder =>

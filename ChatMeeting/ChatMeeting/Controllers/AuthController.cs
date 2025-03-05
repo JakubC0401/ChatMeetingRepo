@@ -19,6 +19,24 @@ namespace ChatMeeting.API.Controllers
             _authService = userService;
             _logger = logger;
         }
+        [HttpPost("login")]
+        public async Task<IActionResult> Login([FromBody] LoginDto loginModel)
+        {
+            try
+            {
+                var authData = await _authService.GetToken(loginModel);
+                return Ok(authData);
+            }
+            catch (UnauthorizedAccessException ex) 
+            {
+                return Unauthorized(new {message = ex.Message});
+            }
+            catch(Exception ex)
+            {
+                _logger.LogError($"An error occured during login for user: {loginModel.Username}");
+                return StatusCode(500, $"An unexpected error occured during login.");
+            }
+        }
 
         [HttpPut("register")]
         public async Task<IActionResult> Register([FromBody] RegisterUserDto registerUser)
