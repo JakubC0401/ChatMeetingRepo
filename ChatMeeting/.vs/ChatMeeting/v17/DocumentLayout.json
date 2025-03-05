@@ -3,44 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08D12EFE-8BBE-4729-976E-9BBD6CED0129}|ChatMeeting\\ChatMeeting.API.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D12EFE-8BBE-4729-976E-9BBD6CED0129}|ChatMeeting\\ChatMeeting.API.csproj|solutionrelative:chatmeeting\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11D6FD19-26CC-4B1C-AA9C-C38943E5D4D2}|ChatMeeting.Infrastructure\\ChatMeeting.Infrastructure.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting.infrastructure\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D6FD19-26CC-4B1C-AA9C-C38943E5D4D2}|ChatMeeting.Infrastructure\\ChatMeeting.Infrastructure.csproj|solutionrelative:chatmeeting.infrastructure\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FE867F0-1F59-457C-983A-43D6DD0B094C}|ChatMeeting.Core.Application\\ChatMeeting.Core.Application.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting.core.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FE867F0-1F59-457C-983A-43D6DD0B094C}|ChatMeeting.Core.Application\\ChatMeeting.Core.Application.csproj|solutionrelative:chatmeeting.core.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting.core.domain\\interfaces\\repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|solutionrelative:chatmeeting.core.domain\\interfaces\\repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting.core.domain\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|solutionrelative:chatmeeting.core.domain\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting.core.domain\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|solutionrelative:chatmeeting.core.domain\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting.core.domain\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|solutionrelative:chatmeeting.core.domain\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting.core.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|solutionrelative:chatmeeting.core.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11D6FD19-26CC-4B1C-AA9C-C38943E5D4D2}|ChatMeeting.Infrastructure\\ChatMeeting.Infrastructure.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11D6FD19-26CC-4B1C-AA9C-C38943E5D4D2}|ChatMeeting.Infrastructure\\ChatMeeting.Infrastructure.csproj|solutionrelative:chatmeeting.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting.core.domain\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|solutionrelative:chatmeeting.core.domain\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting.core.domain\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0E70EA-AF2D-4FAC-B316-DEBB99F9FDD8}|ChatMeeting.Core.Domain\\ChatMeeting.Core.Domain.csproj|solutionrelative:chatmeeting.core.domain\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08D12EFE-8BBE-4729-976E-9BBD6CED0129}|ChatMeeting\\ChatMeeting.API.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08D12EFE-8BBE-4729-976E-9BBD6CED0129}|ChatMeeting\\ChatMeeting.API.csproj|solutionrelative:chatmeeting\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08D12EFE-8BBE-4729-976E-9BBD6CED0129}|ChatMeeting\\ChatMeeting.API.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D12EFE-8BBE-4729-976E-9BBD6CED0129}|ChatMeeting\\ChatMeeting.API.csproj|solutionrelative:chatmeeting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08D12EFE-8BBE-4729-976E-9BBD6CED0129}|ChatMeeting\\ChatMeeting.API.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{08D12EFE-8BBE-4729-976E-9BBD6CED0129}|ChatMeeting\\ChatMeeting.API.csproj|solutionrelative:chatmeeting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FE867F0-1F59-457C-983A-43D6DD0B094C}|ChatMeeting.Core.Application\\ChatMeeting.Core.Application.csproj|c:\\users\\jakub\\desktop\\chatmeeting\\chatmeeting\\chatmeetingrepo\\chatmeeting\\chatmeeting.core.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FE867F0-1F59-457C-983A-43D6DD0B094C}|ChatMeeting.Core.Application\\ChatMeeting.Core.Application.csproj|solutionrelative:chatmeeting.core.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,123 +38,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 317,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "ChatMeeting.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "ChatMeeting.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Interfaces\\Repositories\\IChatRepository.cs",
+              "RelativeDocumentMoniker": "ChatMeeting.Core.Domain\\Interfaces\\Repositories\\IChatRepository.cs",
+              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Interfaces\\Repositories\\IChatRepository.cs",
+              "RelativeToolTip": "ChatMeeting.Core.Domain\\Interfaces\\Repositories\\IChatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:41:57.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ChatMeeting.Core.Domain\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Models\\User.cs",
-              "RelativeToolTip": "ChatMeeting.Core.Domain\\Models\\User.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:41:40.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Dtos\\LoginDto.cs",
-              "RelativeDocumentMoniker": "ChatMeeting.Core.Domain\\Dtos\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Dtos\\LoginDto.cs",
-              "RelativeToolTip": "ChatMeeting.Core.Domain\\Dtos\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:40:58.834Z",
+              "WhenOpened": "2025-03-05T16:37:42.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ChatMeeting\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ChatMeeting\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAtwBkAAAAMAAAAAAAAAA==",
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Infrastructure\\Repositories\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "ChatMeeting.Infrastructure\\Repositories\\ChatRepository.cs",
+              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Infrastructure\\Repositories\\ChatRepository.cs",
+              "RelativeToolTip": "ChatMeeting.Infrastructure\\Repositories\\ChatRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:37:44.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Application\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "ChatMeeting.Core.Application\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Application\\Services\\AuthService.cs",
-              "RelativeToolTip": "ChatMeeting.Core.Application\\Services\\AuthService.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAtwDQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:37:41.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting\\Program.cs",
-              "RelativeDocumentMoniker": "ChatMeeting\\Program.cs",
-              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting\\Program.cs",
-              "RelativeToolTip": "ChatMeeting\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:35:53.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting\\appsettings.json",
-              "RelativeDocumentMoniker": "ChatMeeting\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting\\appsettings.json",
-              "RelativeToolTip": "ChatMeeting\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T10:35:06.686Z",
+              "WhenOpened": "2025-03-05T16:19:57.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AuthDto.cs",
-              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Dtos\\AuthDto.cs",
-              "RelativeDocumentMoniker": "ChatMeeting.Core.Domain\\Dtos\\AuthDto.cs",
-              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Dtos\\AuthDto.cs",
-              "RelativeToolTip": "ChatMeeting.Core.Domain\\Dtos\\AuthDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAWAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ChatMeeting.Core.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Models\\User.cs",
+              "RelativeToolTip": "ChatMeeting.Core.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:52:04.864Z",
+              "WhenOpened": "2025-03-05T16:17:19.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Application\\Services\\JwtService.cs",
-              "RelativeDocumentMoniker": "ChatMeeting.Core.Application\\Services\\JwtService.cs",
-              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Application\\Services\\JwtService.cs",
-              "RelativeToolTip": "ChatMeeting.Core.Application\\Services\\JwtService.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ChatDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\ChatDbContext.cs",
+              "RelativeDocumentMoniker": "ChatMeeting.Core.Domain\\ChatDbContext.cs",
+              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\ChatDbContext.cs",
+              "RelativeToolTip": "ChatMeeting.Core.Domain\\ChatDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wCQAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:47:24.724Z",
+              "WhenOpened": "2025-03-05T16:13:28.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "ChatMeeting.Core.Domain\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Models\\Message.cs",
+              "RelativeToolTip": "ChatMeeting.Core.Domain\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:12:04.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Models\\Chat.cs",
+              "RelativeDocumentMoniker": "ChatMeeting.Core.Domain\\Models\\Chat.cs",
+              "ToolTip": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Core.Domain\\Models\\Chat.cs",
+              "RelativeToolTip": "ChatMeeting.Core.Domain\\Models\\Chat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:10:27.407Z",
               "EditorCaption": ""
             },
             {
