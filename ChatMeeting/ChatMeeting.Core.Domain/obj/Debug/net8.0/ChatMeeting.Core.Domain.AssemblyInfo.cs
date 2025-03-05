@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChatMeeting.Core.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+361b9c00606b0be5bdb3116ee0a462f37284fa99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a157e63c115f307c458f9292b3d5550b0750791")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChatMeeting.Core.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChatMeeting.Core.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
