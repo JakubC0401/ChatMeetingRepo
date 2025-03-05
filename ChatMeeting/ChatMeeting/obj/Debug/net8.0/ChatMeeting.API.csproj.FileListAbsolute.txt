@@ -97,3 +97,4 @@ C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatM
 C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting\obj\Debug\net8.0\ChatMeeting.API.pdb
 C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting\obj\Debug\net8.0\ChatMeeting.API.genruntimeconfig.cache
 C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting\obj\Debug\net8.0\ref\ChatMeeting.API.dll
+C:\Users\Jakub\Desktop\ChatMeeting\ChatMeeting\ChatMeetingRepo\ChatMeeting\ChatMeeting\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
