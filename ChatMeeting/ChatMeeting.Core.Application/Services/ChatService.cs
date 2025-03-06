@@ -1,5 +1,6 @@
 ﻿using ChatMeeting.Core.Domain.Dtos;
 using ChatMeeting.Core.Domain.Interfaces.Repositories;
+using ChatMeeting.Core.Domain.Interfaces.Services;
 using ChatMeeting.Core.Domain.Models;
 using Microsoft.Extensions.Logging;
 using System;
@@ -8,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ChatMeeting.Core.Domain.Interfaces.Services
+namespace ChatMeeting.Core.Application.Services
 {
     public class ChatService : IChatService
     {
