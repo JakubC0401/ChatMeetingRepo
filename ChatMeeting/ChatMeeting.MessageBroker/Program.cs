@@ -11,12 +11,13 @@ builder.Services.Configure<KafkaOption>(options => configuration.GetSection(name
 
 var connectionString = configuration.GetValue<string>("ConnectionString");
 
-builder.Services.AddDbContext<ChatDbContext>(options => options.UseSqlServer(connectionString));
 
 
 builder.Services.AddHostedService<KafkaConsumer>();
 
 
-var app = builder.Build();
 
+builder.Services.AddDbContextFactory<ChatDbContext>(options => options.UseSqlServer(connectionString));
+
+var app = builder.Build();
 app.Run();

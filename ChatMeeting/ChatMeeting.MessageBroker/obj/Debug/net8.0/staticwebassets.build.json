@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xG1x0TwM4KGV2DvxJyUHOEYTsgz0bRyZKtCtwF0WD6k=",
+  "Source": "ChatMeeting.MessageBroker",
+  "BasePath": "_content/ChatMeeting.MessageBroker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

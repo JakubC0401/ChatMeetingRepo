@@ -53,6 +53,7 @@ namespace ChatMeeting.API.Hubs
             {
                 MessageText = message,
                 ChatId = Guid.Parse(chatId),
+                SenderId = Guid.Parse(_userId),
                 Sender = _username
             };
         }

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatMeeting.Infrastructure"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatMeeting.MessageBroker", "ChatMeeting.MessageBroker\ChatMeeting.MessageBroker.csproj", "{3FDDF2C7-B640-4899-BC0F-B66A39F093F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatMeeting.AppHost", "ChatMeeting.AppHost\ChatMeeting.AppHost.csproj", "{3B2AEF51-6E77-43D6-AD91-0D97F5C2666D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3FDDF2C7-B640-4899-BC0F-B66A39F093F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FDDF2C7-B640-4899-BC0F-B66A39F093F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FDDF2C7-B640-4899-BC0F-B66A39F093F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2AEF51-6E77-43D6-AD91-0D97F5C2666D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2AEF51-6E77-43D6-AD91-0D97F5C2666D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2AEF51-6E77-43D6-AD91-0D97F5C2666D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2AEF51-6E77-43D6-AD91-0D97F5C2666D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
