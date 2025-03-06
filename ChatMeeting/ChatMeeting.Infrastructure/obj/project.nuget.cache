@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yTLpZdscDvw=",
+  "dgSpecHash": "4y2rvEK8/B8=",
   "success": true,
   "projectFilePath": "C:\\Users\\Jakub\\Desktop\\ChatMeeting\\ChatMeeting\\ChatMeetingRepo\\ChatMeeting\\ChatMeeting.Infrastructure\\ChatMeeting.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Jakub\\.nuget\\packages\\confluent.kafka\\2.8.0\\confluent.kafka.2.8.0.nupkg.sha512",
+    "C:\\Users\\Jakub\\.nuget\\packages\\librdkafka.redist\\2.8.0\\librdkafka.redist.2.8.0.nupkg.sha512",
     "C:\\Users\\Jakub\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.13\\microsoft.aspnetcore.authentication.jwtbearer.8.0.13.nupkg.sha512",
     "C:\\Users\\Jakub\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.2\\microsoft.entityframeworkcore.9.0.2.nupkg.sha512",
     "C:\\Users\\Jakub\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.2\\microsoft.entityframeworkcore.abstractions.9.0.2.nupkg.sha512",

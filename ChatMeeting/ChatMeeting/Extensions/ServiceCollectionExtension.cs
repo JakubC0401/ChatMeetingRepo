@@ -8,6 +8,8 @@ using ChatMeeting.Core.Domain.Options;
 using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
+using ChatMeeting.Core.Domain.Interfaces.Producer;
+using ChatMeeting.Infrastructure.Producer;
 
 namespace ChatMeeting.API.Extensions
 {
@@ -27,7 +29,7 @@ namespace ChatMeeting.API.Extensions
         public static IServiceCollection AddOptions(this IServiceCollection services, IConfiguration configuration)
         {
             services.Configure<JwtSettingsOption>(options => configuration.GetSection(nameof(JwtSettingsOption)).Bind(options));
-
+            services.Configure<KafkaOption>(options => configuration.GetSection(nameof(KafkaOption)).Bind(options));
             return services;
         }
 
@@ -97,7 +99,7 @@ namespace ChatMeeting.API.Extensions
             services.AddTransient<IJwtService, JwtService>();
             services.AddSingleton(new UserConnectionService());
             services.AddSignalR();
-            
+            services.AddTransient<IKafkaProducer, KafkaProducer> ();
             return services;
         }
     }
