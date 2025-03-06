@@ -1,4 +1,5 @@
 using ChatMeeting.API.Extensions;
+using ChatMeeting.API.Hubs;
 using ChatMeeting.Core.Domain;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
@@ -70,7 +71,10 @@ app.UseCors("CorsPolicy");
 
 app.UseHttpsRedirection();
 
+app.MapHub<MessageHub>("/messageHub");
+
 app.UseAuthentication();
+
 app.UseAuthorization();
 
 app.MapControllers();
