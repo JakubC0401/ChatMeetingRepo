@@ -23,6 +23,7 @@ namespace ChatMeeting.Core.Domain
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            
             modelBuilder.Entity<Message>()
                 .HasOne(m => m.Chat)
                 .WithMany(m => m.Messages)
@@ -34,7 +35,7 @@ namespace ChatMeeting.Core.Domain
                 .HasForeignKey(m => m.SenderId);
 
             modelBuilder.Entity<Chat>().HasData(
-                new Chat { ChatId = Guid.NewGuid(), Name="Global",CratedAt=DateTime.Now}
+                new Chat { ChatId = Guid.NewGuid(), Name = "Global", CratedAt = DateTime.Now}
                 );
         }
     }

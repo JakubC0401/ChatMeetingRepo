@@ -1,4 +1,5 @@
 ﻿using ChatMeeting.Core.Domain;
+using ChatMeeting.Core.Domain.Exceptions;
 using ChatMeeting.Core.Domain.Interfaces.Repositories;
 using ChatMeeting.Core.Domain.Models;
 using Microsoft.EntityFrameworkCore;
@@ -33,12 +34,13 @@ namespace ChatMeeting.Infrastructure.Repositories
                 {
                     var message = $"Chat with name: {chatName} not found";
 
-                    throw new Exception(message);
+                    throw new ChatNotFoundException(chatName);
                 }
 
                 return chat;
             }
             catch (Exception ex)
+
             {
 
                 _logger.LogError(ex, $"Error occured while fetching chat with messages for {chatName}");
@@ -46,7 +48,7 @@ namespace ChatMeeting.Infrastructure.Repositories
             }
         }
 
-        private async Task<Chat?> GetChat(string chatName, int pageNumber, int pageSize)
+        public async Task<Chat?> GetChat(string chatName, int pageNumber, int pageSize)
         {
             return await _context.Chats
                 .Where(x => x.Name == chatName)
